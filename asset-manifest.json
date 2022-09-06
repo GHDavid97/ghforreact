@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ghforreact/static/css/main.073c9b0a.css",
+    "main.js": "/ghforreact/static/js/main.421146bd.js",
+    "static/js/787.96de9c69.chunk.js": "/ghforreact/static/js/787.96de9c69.chunk.js",
+    "static/media/logo.svg": "/ghforreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ghforreact/index.html",
+    "main.073c9b0a.css.map": "/ghforreact/static/css/main.073c9b0a.css.map",
+    "main.421146bd.js.map": "/ghforreact/static/js/main.421146bd.js.map",
+    "787.96de9c69.chunk.js.map": "/ghforreact/static/js/787.96de9c69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.421146bd.js"
+  ]
+}
